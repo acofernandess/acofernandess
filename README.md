@@ -1,7 +1,7 @@
 ## Olá, eu sou Joalysson! 👋
 <br>
 
-Meu nome é Joalysson Fernandes dos Santos, sou apaixonado por tecnologia e sempre fui motivado pela vontade de aprender e evoluir na área de TI. Atualmente, estou cursando Tecnologia em Sistemas para Internet na FATEC São Roque, onde estou no quinto semestre e sigo desenvolvendo minhas habilidades tanto em Desenvolvimento Web quanto em Testes e Qualidade de Software(QA).
+Sou um apaixonado por tecnologia e sempre fui motivado pela vontade de aprender e evoluir na área de TI. Atualmente, estou cursando Tecnologia em Sistemas para Internet na FATEC São Roque, onde estou no quinto semestre e sigo desenvolvendo minhas habilidades tanto em Desenvolvimento Web quanto em Testes e Qualidade de Software(QA).
 
 <br>
 
@@ -27,7 +27,14 @@ Meu nome é Joalysson Fernandes dos Santos, sou apaixonado por tecnologia e semp
 ![googlecloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ----
 ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<br>
 
+
+### **ATIVIDADES:**
+----
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acofernandess&repo=acofernandess&show_icons=true&theme=radical)
+----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acofernandess&show_icons=true&theme=radical)
 
 
 
