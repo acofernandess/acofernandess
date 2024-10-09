@@ -1,7 +1,7 @@
 ## Olá, eu sou Joalysson! 👋
 <br>
 
-Sou um apaixonado por tecnologia e sempre fui motivado pela vontade de aprender e evoluir na área de TI. Atualmente, estou cursando Tecnologia em Sistemas para Internet na FATEC São Roque, onde estou no quinto semestre e sigo desenvolvendo minhas habilidades tanto em Desenvolvimento Web quanto em Testes e Qualidade de Software(QA).
+Sou um apaixonado por tecnologia e sempre fui motivado pela vontade de aprender e evoluir na área de TI. Atualmente, estou cursando Tecnologia em Sistemas para Internet na FATEC São Roque, onde estou no quinto semestre e sigo desenvolvendo minhas habilidades em Desenvolvimento Mobile e Web.
 
 <br>
 
