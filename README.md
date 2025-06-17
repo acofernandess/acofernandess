@@ -30,13 +30,18 @@ Sou um apaixonado por tecnologia e sempre fui motivado pela vontade de aprender 
 <br>
 
 
-### **ATIVIDADES:**
+### **LINGUAGENS:**
 ----
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acofernandess&repo=acofernandess&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acofernandess&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acofernandess&show_icons=true&theme=transparent)](https://github.com/acofernandess/github-readme-stats)
 
 <br>
+
+### **STATUS:**
+----
+![Joalysson GitHub stats](https://github-readme-stats.vercel.app/api?username=acofernandess&show_icons=true&theme=transparent)
+
+<br>
+
 
 
 
